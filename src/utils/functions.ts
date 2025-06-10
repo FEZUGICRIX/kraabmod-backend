@@ -12,3 +12,13 @@ export const generateSlug = (title: string): string => {
 
 	return `${slug}-${shortUuid}`
 }
+
+// Простая экранирующая функция для предотвращения XSS в HTML-письмах
+export function escape(str: string) {
+	return String(str)
+		.replace(/&/g, '&amp;')
+		.replace(/</g, '&lt;')
+		.replace(/>/g, '&gt;')
+		.replace(/"/g, '&quot;')
+		.replace(/'/g, '&#039;')
+}
