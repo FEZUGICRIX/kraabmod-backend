@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_Слой_1" data-name="Слой 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1700.79 850.39">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-miterlimit: 10;
+        stroke-width: 1.5px;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        fill: none;
+      }
+
+      .cls-1, .cls-4 {
+        stroke: #000;
+        stroke-linecap: round;
+      }
+
+      .cls-5 {
+        fill: #1d1d1b;
+        font-family: Roboto-Regular, Roboto;
+        font-size: 35.71px;
+      }
+
+      .cls-3 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-4 {
+        stroke-linejoin: round;
+        stroke-width: 2px;
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-2" x="124.82" y="148" width="1584.47" height="631.37"/>
+    </clipPath>
+  </defs>
+  <g class="cls-3">
+    <path class="cls-4" d="m130.11,603.49v1.28m-2.56-1.71l.86.85.85.86h.86m0-150.31v-1.71m-2.99,2.99v146.46m2.99-146.89v.43m0,146.46v.43m0-149.45h-.86l-.85.85-.86.86m552.55,150.74v68.75m337.34-69.17h-392.85m55.52,69.17h281.83v-68.75m549.99-.86h.86m0,0h.86l.86-.86.85-.85v-.86m-2.56-149.45h-.86m3.84,149.45v-146.46m-.43,0v-.86l-.85-.86-.86-.85h-.86M130.11,604.77v.43m0-.43v-151.59m0-.86v.86m0-.86v-.86m0-.43v.43m0-.43v-11.53m0-.43v.43m1381.8-.43v166.11M130.11,439.09h1381.8m-1381.8,11.95h1381.8M130.11,605.19h494.48m392.85,0h494.48"/>
+    <path class="cls-4" d="m127.54,252.21v-17.08m2.99,1.28v1.71m-2.99-2.99l.43.86.86.85.85.86h.86m0-80.71v-1.28m0,79.42v-76.43m-2.99,0v76.43m2.99-76.86v.43m0,76.43v.43m0-78.57v-.43m0-.42h-.86l-.85.85-.86.86m1387.78,77.29v17.08m-1.28,0h1.28m-890.74-96.93v82.84h55.09m-55.09-82.84h55.09v82.84m337.34,0v-82.84h-55.08m55.08,82.84h-55.08m-282.25,0h282.25v-82.84h-282.25m281.83,82.84h-281.4m-549.99,5.98v-.43m0,.43v-5.98m0-1.71v-.86m1382.23,2.13h.86l.86-.86.86-.85m.42-.86v-76.43m0,0l-.42-.86-.86-.86-.86-.85-1.46-.86m-553.65,79.42h-274.57m274.57,0h.43v-.43m.43-74.72v74.72m-.43-74.72v-.43h-.43m-274.57-.43h274.57m-274.57.43h-.43v.43m-.43,74.72v-74.72m.43,74.72v.43h.43m-553.41,17.08v.43m0-.43v-14.09m0,.43v-.43m0,0v-81.56m0-.86v.86m1381.38-.86v96.93M130.53,155.28h494.48m392.42,0h494.48M130.53,238.12h494.48m392.42,0h494.48m-1384.37,14.09h1388.21"/>
+    <line class="cls-1" x1="126.39" y1="291.88" x2="1508.21" y2="291.88"/>
+  </g>
+  <text class="cls-5" transform="translate(781.06 338.92)"><tspan x="0" y="0">1001</tspan></text>
+  <line class="cls-1" x1="1573.87" y1="253.36" x2="1573.87" y2="154.13"/>
+  <text class="cls-5" transform="translate(1603.35 215.82)"><tspan x="0" y="0">70</tspan></text>
+  <line class="cls-1" x1="1573.87" y1="604.2" x2="1573.87" y2="437.94"/>
+  <text class="cls-5" transform="translate(1591.99 533.14)"><tspan x="0" y="0">120</tspan></text>
+  <line class="cls-1" x1="679.85" y1="711.71" x2="960.35" y2="711.71"/>
+  <text class="cls-5" transform="translate(792.92 763.27)"><tspan x="0" y="0">204</tspan></text>
+  <line class="cls-1" x1="1012.17" y1="675.52" x2="1012.17" y2="610.41"/>
+  <text class="cls-5" transform="translate(1039.35 652.13)"><tspan x="0" y="0">50</tspan></text>
+</svg>
